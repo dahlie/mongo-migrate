@@ -1,8 +1,6 @@
 # mongodb-migrate
-=============
 
 Built starting with a framework from: https://github.com/visionmedia/node-migrate
-
 
 ## Installation
 	$ npm install mongodb-migrate
