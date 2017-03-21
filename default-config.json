@@ -1,6 +1,7 @@
 {
-	"mongoAppDb"        : {
-		"host" : "localhost",
-		"db"   : "app-db"
-	}
+  "mongoAppDb": {
+    "host": "localhost",
+    "db": "app-db",
+    "collection": "migrations"
+  }
 }
